@@ -35,7 +35,7 @@
 			<destination>{4601cd13-2125-4d90-9044-72c6e16ac531}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{16de4e46-bce0-4a42-a53f-ebfb0a6d79b0}</destination>
+			<destination>{f8a437c7-4560-46a0-b2fe-dc51d9e39dfd}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{21fc202d-9b72-4bde-85c5-7f7de8a4febb}">
@@ -184,8 +184,9 @@
 		<property name="timelockedOffset">
 			<value>0.030562529231957569</value>
 		</property>
+		<property name="name" />
 		<property name="volume">
-			<value>-3.5</value>
+			<value>-2</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{ea6a13d1-e1f4-421c-8840-2cf418094479}</destination>
