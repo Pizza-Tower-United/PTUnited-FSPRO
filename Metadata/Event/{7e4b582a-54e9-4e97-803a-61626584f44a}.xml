@@ -238,10 +238,6 @@
 		<relationship name="destination">
 			<destination>{284ee08b-734c-464d-acd9-ca85ea2c364b}</destination>
 		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{a17ec19f-9de8-4784-a6f3-ac9c75aa5a38}</destination>
-			<destination>{a42555b7-4109-4fb8-a64b-6c15225e537e}</destination>
-		</relationship>
 	</object>
 	<object class="TempoMarker" id="{93ac7cd8-a7b9-4889-956b-4c75e0e2fb68}">
 		<property name="position">
@@ -269,9 +265,6 @@
 		</relationship>
 		<relationship name="markerTrack">
 			<destination>{089ea02c-11a4-4217-bf5a-30e630588db2}</destination>
-		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{463a613d-a9b6-4a82-809f-b983d625d69e}</destination>
 		</relationship>
 		<relationship name="transitionTimeline">
 			<destination>{80a578b1-c5d1-49f7-8dd3-245682d178fe}</destination>
@@ -329,9 +322,6 @@
 		<relationship name="markerTrack">
 			<destination>{089ea02c-11a4-4217-bf5a-30e630588db2}</destination>
 		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{49770038-003c-4e53-bc8b-593da2efa8be}</destination>
-		</relationship>
 	</object>
 	<object class="LoopRegion" id="{17099872-3077-4962-93d7-4248e6245686}">
 		<property name="position">
@@ -348,9 +338,6 @@
 		</relationship>
 		<relationship name="markerTrack">
 			<destination>{9ea297f0-d502-4efd-b78f-ed27b8c28974}</destination>
-		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{924a3ad4-cd39-4107-b5af-42183b63ba71}</destination>
 		</relationship>
 		<relationship name="transitionTimeline">
 			<destination>{bf28ef6b-acf0-4d96-8667-7759320c72c1}</destination>
@@ -471,48 +458,6 @@
 			<destination>{1c672cf3-645c-4a16-982e-bee45840ba8f}</destination>
 		</relationship>
 	</object>
-	<object class="ParameterCondition" id="{a17ec19f-9de8-4784-a6f3-ac9c75aa5a38}">
-		<property name="minimum">
-			<value>0</value>
-		</property>
-		<property name="maximum">
-			<value>0</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{a42555b7-4109-4fb8-a64b-6c15225e537e}">
-		<property name="minimum">
-			<value>2</value>
-		</property>
-		<property name="maximum">
-			<value>4</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{463a613d-a9b6-4a82-809f-b983d625d69e}">
-		<property name="minimum">
-			<value>1</value>
-		</property>
-		<property name="maximum">
-			<value>1</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
 	<object class="TransitionTimeline" id="{80a578b1-c5d1-49f7-8dd3-245682d178fe}">
 		<property name="length">
 			<value>0.33333333333333326</value>
@@ -520,31 +465,6 @@
 		<relationship name="modules">
 			<destination>{852b1d14-9fae-43d1-8122-90582d6e2db8}</destination>
 			<destination>{0d2a3a8f-a152-4646-82e9-253c70e5e06c}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{49770038-003c-4e53-bc8b-593da2efa8be}">
-		<property name="minimum">
-			<value>2</value>
-		</property>
-		<property name="maximum">
-			<value>4</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{924a3ad4-cd39-4107-b5af-42183b63ba71}">
-		<property name="minimum">
-			<value>2</value>
-		</property>
-		<property name="maximum">
-			<value>2</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionTimeline" id="{bf28ef6b-acf0-4d96-8667-7759320c72c1}">

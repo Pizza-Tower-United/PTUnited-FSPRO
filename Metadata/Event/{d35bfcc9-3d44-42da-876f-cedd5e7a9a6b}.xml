@@ -243,9 +243,6 @@
 		<relationship name="markerTrack">
 			<destination>{7710582b-bbfa-49c2-a076-b21c157ceab9}</destination>
 		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{9ecd4cd8-1cc5-4805-92a5-bbd740c67874}</destination>
-		</relationship>
 		<relationship name="transitionTimeline">
 			<destination>{24c1e967-a7e4-45ec-a871-5d4fd09ee70f}</destination>
 		</relationship>
@@ -296,17 +293,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{b2e8dd41-87d8-4715-91af-4e4dafe8e7a5}" />
-	<object class="ParameterCondition" id="{9ecd4cd8-1cc5-4805-92a5-bbd740c67874}">
-		<property name="minimum">
-			<value>3</value>
-		</property>
-		<property name="maximum">
-			<value>3</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
 	<object class="TransitionTimeline" id="{24c1e967-a7e4-45ec-a871-5d4fd09ee70f}">
 		<property name="length">
 			<value>1.7999999999999998</value>

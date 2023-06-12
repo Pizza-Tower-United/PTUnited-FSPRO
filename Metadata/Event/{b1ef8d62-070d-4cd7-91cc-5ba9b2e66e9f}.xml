@@ -244,9 +244,6 @@
 		<relationship name="markerTrack">
 			<destination>{432deb77-b059-473a-9288-f99092d9acaa}</destination>
 		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{74a03984-98ea-4724-9ebb-96400a9f1a42}</destination>
-		</relationship>
 	</object>
 	<object class="NamedMarker" id="{7ed80ccc-6497-47cb-8406-af355109496c}">
 		<property name="position">
@@ -278,9 +275,6 @@
 		<relationship name="markerTrack">
 			<destination>{91e00ef8-a32e-46df-a7e5-4ea03b351008}</destination>
 		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{3537ff11-7bc2-4f52-95c6-e569f68ace9b}</destination>
-		</relationship>
 		<relationship name="transitionTimeline">
 			<destination>{d52bfc62-91c4-4e32-a1cf-c9ecc180c91f}</destination>
 		</relationship>
@@ -303,10 +297,6 @@
 		</relationship>
 		<relationship name="destination">
 			<destination>{7ed80ccc-6497-47cb-8406-af355109496c}</destination>
-		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{1ade423d-c907-4816-ace9-1dfbd7b77262}</destination>
-			<destination>{27832fe0-0f97-46d6-a26d-2981124ce7a6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{ca49ec87-a185-4a69-964d-c3ab6afae4af}">
@@ -366,31 +356,6 @@
 			<destination>{25b1ce4a-4490-4ce1-9538-b7c96ffec103}</destination>
 		</relationship>
 	</object>
-	<object class="ParameterCondition" id="{74a03984-98ea-4724-9ebb-96400a9f1a42}">
-		<property name="minimum">
-			<value>2</value>
-		</property>
-		<property name="maximum">
-			<value>4</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{3537ff11-7bc2-4f52-95c6-e569f68ace9b}">
-		<property name="minimum">
-			<value>2</value>
-		</property>
-		<property name="maximum">
-			<value>2</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
 	<object class="TransitionTimeline" id="{d52bfc62-91c4-4e32-a1cf-c9ecc180c91f}">
 		<property name="length">
 			<value>1.7999999999999998</value>
@@ -407,34 +372,6 @@
 		<relationship name="modules">
 			<destination>{15635b30-5665-4f5c-b838-de5d16644199}</destination>
 			<destination>{92f81fc9-7065-4c84-8484-cf46b9dd40de}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{1ade423d-c907-4816-ace9-1dfbd7b77262}">
-		<property name="minimum">
-			<value>0</value>
-		</property>
-		<property name="maximum">
-			<value>0</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{27832fe0-0f97-46d6-a26d-2981124ce7a6}">
-		<property name="minimum">
-			<value>2</value>
-		</property>
-		<property name="maximum">
-			<value>4</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{13df2fd4-3b21-4c55-a9c3-ad0e9f6dc0d4}" />

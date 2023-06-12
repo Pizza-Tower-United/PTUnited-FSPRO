@@ -197,10 +197,6 @@
 		<relationship name="destination">
 			<destination>{92c3ebce-02f7-48db-bf2e-de5cd0239a5b}</destination>
 		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{2c0148bf-438a-4989-87a3-9502c4556ba3}</destination>
-			<destination>{ec356c19-6e1b-47d7-8fd4-c2541a5a74c5}</destination>
-		</relationship>
 	</object>
 	<object class="SustainPoint" id="{03b1d91a-e801-44f3-893d-0a2ce734e973}">
 		<property name="position">
@@ -211,9 +207,6 @@
 		</relationship>
 		<relationship name="markerTrack">
 			<destination>{70669bca-4858-4e44-8de0-c1e5570dfb1e}</destination>
-		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{6c12a406-733d-4a8e-b89d-15255b15f0a8}</destination>
 		</relationship>
 	</object>
 	<object class="TempoMarker" id="{3a10a4ab-b1c8-4940-a8e6-20e1e281852d}">
@@ -308,48 +301,6 @@
 		<relationship name="modules">
 			<destination>{f6ae3e8e-5711-48af-9add-671a9c45153b}</destination>
 			<destination>{1cba19c6-c504-4805-83a7-6c56abf4692c}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{2c0148bf-438a-4989-87a3-9502c4556ba3}">
-		<property name="minimum">
-			<value>0</value>
-		</property>
-		<property name="maximum">
-			<value>0</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{ec356c19-6e1b-47d7-8fd4-c2541a5a74c5}">
-		<property name="minimum">
-			<value>2</value>
-		</property>
-		<property name="maximum">
-			<value>4</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{6c12a406-733d-4a8e-b89d-15255b15f0a8}">
-		<property name="minimum">
-			<value>2</value>
-		</property>
-		<property name="maximum">
-			<value>4</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{8f7279af-8a48-4e7f-a61c-dbdd4de8b269}" />
