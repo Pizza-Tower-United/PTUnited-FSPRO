@@ -41,7 +41,7 @@
 			<destination>{b5772fb2-1d67-4f95-9cc2-8aee65ccd126}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{16de4e46-bce0-4a42-a53f-ebfb0a6d79b0}</destination>
+			<destination>{f8a437c7-4560-46a0-b2fe-dc51d9e39dfd}</destination>
 		</relationship>
 		<relationship name="defaultEvent">
 			<destination>{4cf5ef02-b6cf-4329-8725-8ee5710d6c36}</destination>
@@ -138,7 +138,7 @@
 			<value>235.18975</value>
 		</property>
 		<property name="volume">
-			<value>1.5</value>
+			<value>2</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{7939f6e3-0d34-44fd-8fdf-a61fd4a2aa08}</destination>
@@ -201,6 +201,9 @@
 	<object class="SingleSound" id="{fc755ce6-ec35-488c-83c5-7e1b4b38e759}">
 		<property name="length">
 			<value>98.181812500000007</value>
+		</property>
+		<property name="volume">
+			<value>4</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{ea4ada7a-a350-4d32-9ffc-001245975a87}</destination>

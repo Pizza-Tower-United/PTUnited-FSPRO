@@ -104,11 +104,20 @@
 		</property>
 	</object>
 	<object class="SingleSound" id="{73308089-858e-495c-a1b3-27edc00aaff8}">
+		<property name="isAsync">
+			<value>true</value>
+		</property>
+		<property name="isCutoff">
+			<value>true</value>
+		</property>
 		<property name="start">
 			<value>0.0050000000000000001</value>
 		</property>
 		<property name="length">
 			<value>60.022874999999999</value>
+		</property>
+		<property name="volume">
+			<value>1.5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{91fc4517-bd1c-451d-a246-c141cb9560bf}</destination>
