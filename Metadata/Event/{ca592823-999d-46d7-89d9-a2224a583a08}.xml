@@ -94,6 +94,9 @@
 		<property name="timelockedOffset">
 			<value>0.033447265625</value>
 		</property>
+		<property name="volume">
+			<value>-4</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{d26af8fd-f9cd-4537-8801-e5092b28650e}</destination>
 		</relationship>

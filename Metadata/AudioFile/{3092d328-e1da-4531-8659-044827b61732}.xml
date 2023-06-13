@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{bce098d1-1d32-4b26-96c9-28c9df04c07b}">
+	<object class="AudioFile" id="{3092d328-e1da-4531-8659-044827b61732}">
 		<property name="assetPath">
-			<value>united/sfx/megalovania sounds/mega9.wav</value>
+			<value>united/sfx/Overdriven Guitar.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>8</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>0.10652083333333333</value>
+			<value>0.5</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

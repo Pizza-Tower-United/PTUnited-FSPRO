@@ -117,9 +117,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{c7f96cea-a520-471d-953b-8a29414291a8}" />
 	<object class="MultiSound" id="{f4d821ba-c317-401d-bd57-6a0c01447913}">
-		<property name="volume">
-			<value>2.5</value>
-		</property>
 		<property name="playlistMode">
 			<value>1</value>
 		</property>
@@ -136,7 +133,7 @@
 	</object>
 	<object class="SingleSound" id="{e2518ee5-83e2-491c-aa35-11f5c9e9cb20}">
 		<property name="volume">
-			<value>-23.5</value>
+			<value>-29</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{3bcd1c1f-73ea-4fe4-93d5-28668dfc1ce6}</destination>
@@ -147,7 +144,11 @@
 	</object>
 	<object class="MixerBusFader" id="{1809ad95-41c1-4993-8f2b-6ddacea45c7a}" />
 	<object class="MixerBusFader" id="{4f2bd497-a201-40ce-a25e-658cb78068af}" />
-	<object class="DistortionEffect" id="{ad233ceb-be89-4fc8-b8f2-0bd55c049482}" />
+	<object class="DistortionEffect" id="{ad233ceb-be89-4fc8-b8f2-0bd55c049482}">
+		<property name="level">
+			<value>0.644999981</value>
+		</property>
+	</object>
 	<object class="SpatialiserEffect" id="{4c850005-537b-421d-a4e1-32eb054e6cae}">
 		<property name="maximumDistance">
 			<value>4000</value>
