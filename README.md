@@ -1,5 +1,5 @@
 # Pizza Tower United FMOD Studio Project
-Based off [Ralty's Pizza Tower FMOD Studio Project Recreation](https://github.com/Raltyro/Pizza-Tower-fspro-Recreation)
+Based of [Ralty's Pizza Tower FMOD Studio Project Recreation](https://github.com/Raltyro/Pizza-Tower-fspro-Recreation)
 
 [![PT FSPRO Repository Image](.github/readme/banner-fspro.png)](https://github.com/Raltyro/Pizza-Tower-fspro-Recreation)
 
@@ -24,7 +24,12 @@ extract the Pizza Tower banks files at `sound\Desktop` to wav with the [Unoffici
 Put it into the repository `Assets` folder, and you should be good to go to open this with FMOD Studio!
 
 ## Credits
-* [Raltyro](https://github.com/Raltyro) - Maintainer ([Gamebanana](https://gamebanana.com/members/1777465), [Twitter](https://twitter.com/Raltyro))
-* [AwfulNasty](https://github.com/AwfulNasty) - MAJOR Contributions help on adding bunch of sfx events
-* [MeliaDev](https://github.com/MeliaDev) - Contributions help on adding events ([Twitter](https://twitter.com/darkdagirl))
+* [Raltyro](https://github.com/Raltyro) ([Gamebanana](https://gamebanana.com/members/1777465), [Twitter](https://twitter.com/Raltyro)) - Maintainer
+* [AwfulNasty](https://github.com/AwfulNasty) - MAJOR Contributions on adding bunch of sfx events, linking this fspro with PT original banks, and etc
+* [theCarso](https://github.com/theCarso) - Contributions on helping to make linking this fspro with PT original banks possible (Making an automated script on applying the GUIDs)
+* [SlawekNowy](https://github.com/SlawekNowy) - Contributions on helping to make linking this fspro with PT original banks possible (Exporting the GUIDs)
+* [MeliaDev](https://github.com/MeliaDev) ([Twitter](https://twitter.com/darkdagirl)) - Contributions help on adding events
 * [thecubitosishere](https://github.com/thecubitoishere) - Contributions help on adding events
+
+Without these Contributors, this project wouldn't be possible without them!
+Thank you everyone for those who contributes this project!
