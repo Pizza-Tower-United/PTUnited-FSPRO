@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{b0a42f33-bd61-4ce7-a7b5-6623338f67ff}">
+	<object class="AudioFile" id="{07adb39f-b913-43fe-a0ce-456bd3f36214}">
 		<property name="assetPath">
-			<value>united/music/funiculifunicula.ogg</value>
+			<value>united/music/funiculifunicula-new.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>22.0499992</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>380.60408163265305</value>
+			<value>126.85714285714286</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>
