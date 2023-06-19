@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{d9c28abb-f3cc-460a-8a8d-d16175cff392}">
 		<property name="name">
-			<value>talk 2</value>
+			<value>announcement</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{a2dcc290-512f-4c07-8088-e520567e0716}</destination>
@@ -36,6 +36,9 @@
 		</relationship>
 		<relationship name="parameters">
 			<destination>{ca0e0f83-2be2-4775-a26f-0f80196d5534}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{35116456-3687-44ba-99bb-1c2e931e972c}</destination>
 		</relationship>
 		<relationship name="defaultEvent">
 			<destination>{a74bde44-f10f-41c4-a4c1-cb76e9d78cf2}</destination>
@@ -83,6 +86,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{e8101255-0ae2-444c-9c11-2ec3988c074e}">
+		<property name="volume">
+			<value>5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{00a86ff9-99d7-4aa0-b44d-7fc5e2213147}</destination>
 		</relationship>
@@ -95,7 +101,7 @@
 	</object>
 	<object class="MultiSound" id="{998107b5-1dd0-46d8-946a-b03bbec4a6d8}">
 		<relationship name="sounds">
-			<destination>{bcf1d4a5-f0e9-44a8-a2f1-6242a0fc3175}</destination>
+			<destination>{e6891df6-3fa0-45a0-b02c-ac4ab425dd0b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{bb060ea0-e32c-4bac-bbec-cb65e99454ac}">
@@ -124,12 +130,9 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{f6bf1c43-7eea-499d-b25a-9687574aabee}" />
-	<object class="SingleSound" id="{bcf1d4a5-f0e9-44a8-a2f1-6242a0fc3175}">
-		<property name="volume">
-			<value>3</value>
-		</property>
+	<object class="SingleSound" id="{e6891df6-3fa0-45a0-b02c-ac4ab425dd0b}">
 		<relationship name="audioFile">
-			<destination>{b302ec26-4e66-44ca-a489-c71a4097469f}</destination>
+			<destination>{3bb50d44-3ad2-4d83-8f21-9c9cb5b87ac2}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{dd966727-eeb8-490d-94f8-c6b3162dcfe0}" />
