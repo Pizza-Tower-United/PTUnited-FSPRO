@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{d2742b37-79c6-4d9f-9fd7-182818d9688a}">
 		<property name="name">
-			<value>2D SFX Action</value>
+			<value>boxenter</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
@@ -36,6 +36,9 @@
 		</relationship>
 		<relationship name="parameters">
 			<destination>{1333817e-fc33-4d48-954a-52ca92504acf}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{35116456-3687-44ba-99bb-1c2e931e972c}</destination>
 		</relationship>
 		<relationship name="defaultEvent">
 			<destination>{a74bde44-f10f-41c4-a4c1-cb76e9d78cf2}</destination>
