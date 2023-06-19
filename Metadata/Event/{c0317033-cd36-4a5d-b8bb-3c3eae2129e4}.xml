@@ -44,9 +44,6 @@
 		</relationship>
 	</object>
 	<object class="MasterTrack" id="{72659216-0b30-4029-ac51-7820937c6996}">
-		<relationship name="automationTracks">
-			<destination>{2596864f-be0d-4dc9-af94-d3e379c84460}</destination>
-		</relationship>
 		<relationship name="modules">
 			<destination>{f0777a96-f8b7-4993-babd-808e59f8cc1b}</destination>
 		</relationship>
@@ -79,7 +76,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{5db6c326-d2e5-4b5b-a5b3-269545a99908}">
 		<property name="volume">
-			<value>-12</value>
+			<value>-14</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{9d3ec9f1-5559-4f97-91f4-3244c45d92c8}</destination>
@@ -89,11 +86,6 @@
 		</relationship>
 		<relationship name="mixer">
 			<destination>{4c9046d2-2777-43d8-976a-32425b444efe}</destination>
-		</relationship>
-	</object>
-	<object class="AutomationTrack" id="{2596864f-be0d-4dc9-af94-d3e379c84460}">
-		<relationship name="automator">
-			<destination>{cebdebd4-5705-4b15-a1ed-79bbee0898a4}</destination>
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{f0777a96-f8b7-4993-babd-808e59f8cc1b}">
@@ -205,7 +197,7 @@
 	</object>
 	<object class="SingleSound" id="{3261365e-2795-474b-a06a-f302c2d1b900}">
 		<property name="startOffset">
-			<value>41</value>
+			<value>36.5</value>
 		</property>
 		<property name="pitch">
 			<value>17</value>
@@ -216,7 +208,7 @@
 	</object>
 	<object class="SingleSound" id="{616af406-5ea9-4006-b718-d8ae67aa885f}">
 		<property name="startOffset">
-			<value>44</value>
+			<value>40.5</value>
 		</property>
 		<property name="pitch">
 			<value>16</value>
@@ -227,7 +219,7 @@
 	</object>
 	<object class="SingleSound" id="{24c1acfb-ba8c-478d-ba23-91f87e5afff9}">
 		<property name="startOffset">
-			<value>48.5</value>
+			<value>43</value>
 		</property>
 		<property name="pitch">
 			<value>15</value>
@@ -303,7 +295,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-80</value>
+			<value>-5</value>
 		</property>
 		<property name="curveShape">
 			<value>-1</value>
