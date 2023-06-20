@@ -66,6 +66,9 @@
 		<property name="maxVoices">
 			<value>3</value>
 		</property>
+		<property name="voiceStealing">
+			<value>3</value>
+		</property>
 	</object>
 	<object class="MarkerTrack" id="{18d878e3-8d28-453e-a65c-c5c7a50899f7}" />
 	<object class="Timeline" id="{a66ed039-efca-4530-a3c2-8faa94ae293c}">
@@ -151,7 +154,7 @@
 	</object>
 	<object class="SpatialiserEffect" id="{4c850005-537b-421d-a4e1-32eb054e6cae}">
 		<property name="maximumDistance">
-			<value>4000</value>
+			<value>2200</value>
 		</property>
 		<property name="overrideRange">
 			<value>true</value>

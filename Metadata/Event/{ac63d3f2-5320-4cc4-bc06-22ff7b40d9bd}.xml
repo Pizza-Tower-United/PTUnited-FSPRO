@@ -72,6 +72,9 @@
 		<property name="maxVoices">
 			<value>3</value>
 		</property>
+		<property name="voiceStealing">
+			<value>3</value>
+		</property>
 	</object>
 	<object class="MarkerTrack" id="{18d0f6ff-1af4-43dc-8675-38064040a582}" />
 	<object class="GroupTrack" id="{55b24d58-1455-4253-b310-0a8ac50b6143}">
@@ -132,7 +135,7 @@
 		<relationship name="effects">
 			<destination>{cef6af62-ae18-4a08-8ed0-7cca75685edd}</destination>
 			<destination>{2aba1089-5e82-487b-8cf5-8c8008769b4e}</destination>
-			<destination>{f57ed0b1-9522-44de-9884-8a8164b81a49}</destination>
+			<destination>{5fa19d3f-b81a-43e8-908f-8c9a30c74dbd}</destination>
 			<destination>{406beb5d-2eef-4fda-8a2c-d635e865a0c0}</destination>
 		</relationship>
 	</object>
@@ -155,7 +158,13 @@
 			<value>0.649999976</value>
 		</property>
 	</object>
-	<object class="SpatialiserEffect" id="{f57ed0b1-9522-44de-9884-8a8164b81a49}">
+	<object class="SpatialiserEffect" id="{5fa19d3f-b81a-43e8-908f-8c9a30c74dbd}">
+		<property name="maximumDistance">
+			<value>2200</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
 		<property name="extentMode">
 			<value>1</value>
 		</property>
