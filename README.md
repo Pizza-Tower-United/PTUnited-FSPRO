@@ -1,7 +1,10 @@
-# Pizza Tower United FMOD Studio Project
+# Pizza Tower United (PLAYTESTING) FMOD Studio Project
 Based of [Ralty's Pizza Tower FMOD Studio Project Recreation](https://github.com/Raltyro/Pizza-Tower-fspro-Recreation)
 
 [![PT FSPRO Repository Image](.github/readme/banner-fspro.png)](https://github.com/Raltyro/Pizza-Tower-fspro-Recreation)
+
+## Apply the Playtest Banks
+To apply the banks, just run `apply-sounds.bat`, input your Pizza Tower game directory into the command prompt, and you should be good to go!
 
 ## Modifying
 I'm putting this ontop because rarely most of you guys didn't do this >:(
