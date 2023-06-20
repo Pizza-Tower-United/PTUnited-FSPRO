@@ -35,7 +35,7 @@
 			<destination>{bda9dd26-c231-4149-b341-448e94473403}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{68835125-dab1-4312-9b5a-d21ee9bdb318}</destination>
+			<destination>{35116456-3687-44ba-99bb-1c2e931e972c}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{5ebb0104-f029-4846-84fc-bbe0212344ab}">
@@ -64,7 +64,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{0a9f8b78-8731-4b9d-ab02-dd3bc4ccc8c1}">
 		<property name="maxVoices">
-			<value>3</value>
+			<value>1</value>
 		</property>
 		<property name="voiceStealing">
 			<value>3</value>
