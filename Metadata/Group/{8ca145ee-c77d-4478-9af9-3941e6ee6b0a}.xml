@@ -7,6 +7,9 @@
 		<property name="maxInstances">
 			<value>64</value>
 		</property>
+		<property name="instanceStealing">
+			<value>4</value>
+		</property>
 		<relationship name="automators">
 			<destination>{b2d69e44-64c4-4298-98f2-f151e9ec53dc}</destination>
 		</relationship>
