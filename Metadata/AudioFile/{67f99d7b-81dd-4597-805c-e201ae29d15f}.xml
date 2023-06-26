@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{67f99d7b-81dd-4597-805c-e201ae29d15f}">
 		<property name="assetPath">
-			<value>united/music/midway2.ogg</value>
+			<value>united/music/titlecard/midway2.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

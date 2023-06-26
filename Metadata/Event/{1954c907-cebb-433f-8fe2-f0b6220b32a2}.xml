@@ -134,6 +134,9 @@
 		<property name="tempo">
 			<value>151</value>
 		</property>
+		<property name="timeSignatureNumerator">
+			<value>5</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{a7e58edb-033e-418f-8d2b-319b813ceed6}</destination>
 		</relationship>

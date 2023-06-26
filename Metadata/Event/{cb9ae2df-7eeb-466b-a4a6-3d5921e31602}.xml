@@ -147,10 +147,13 @@
 	<object class="MixerBusFader" id="{0a377d21-9f35-4c5f-ae6e-6ef95262f29e}" />
 	<object class="SFXReverbEffect" id="{9eb83080-a6ca-4c21-a5d6-a0cf0cb8f10c}">
 		<property name="decayTime">
-			<value>500</value>
+			<value>600</value>
 		</property>
 	</object>
 	<object class="DelayEffect" id="{7e1aa54d-86b4-4a58-a647-11c695b0e4b0}">
+		<property name="delay">
+			<value>560</value>
+		</property>
 		<property name="feedback">
 			<value>30</value>
 		</property>
