@@ -308,7 +308,7 @@
 	</object>
 	<object class="SingleSound" id="{6e530f02-1313-4fe9-a5b2-cd0e16363a43}">
 		<property name="start">
-			<value>321.43490672347218</value>
+			<value>320.55890677188393</value>
 		</property>
 		<property name="length">
 			<value>127.95019266060763</value>
@@ -501,7 +501,7 @@
 	</object>
 	<object class="TempoMarker" id="{0e1721af-171d-494b-9b23-f507cea1cf2e}">
 		<property name="position">
-			<value>321.43490672347218</value>
+			<value>320.55890677188393</value>
 		</property>
 		<property name="tempo">
 			<value>165</value>
@@ -515,7 +515,7 @@
 	</object>
 	<object class="LoopRegion" id="{937fd5f4-9996-4346-9857-63f3569e6c2d}">
 		<property name="position">
-			<value>324.34399763256306</value>
+			<value>323.4679976809748</value>
 		</property>
 		<property name="length">
 			<value>122.18181818181813</value>
@@ -532,7 +532,7 @@
 	</object>
 	<object class="LoopRegion" id="{8a3966e7-4b50-4d06-b350-0e012d79234c}">
 		<property name="position">
-			<value>321.43490672347218</value>
+			<value>320.55890677188393</value>
 		</property>
 		<property name="length">
 			<value>128</value>
