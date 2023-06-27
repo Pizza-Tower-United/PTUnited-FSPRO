@@ -203,6 +203,9 @@
 		</relationship>
 	</object>
 	<object class="EventSound" id="{91663c12-24ea-4937-ba6e-629789e675d2}">
+		<property name="isCutoff">
+			<value>true</value>
+		</property>
 		<relationship name="event">
 			<destination>{eaa3cf64-9fd5-4c42-91c6-24028b36d4e4}</destination>
 		</relationship>
