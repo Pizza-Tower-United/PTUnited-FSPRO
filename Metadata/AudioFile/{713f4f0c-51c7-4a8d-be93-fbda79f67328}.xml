@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{713f4f0c-51c7-4a8d-be93-fbda79f67328}">
 		<property name="assetPath">
-			<value>united/music/pesto anchovi.wav</value>
+			<value>united/music/pesto anchovi.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

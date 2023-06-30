@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ec984dbd-73b3-4a65-92f3-543577cb9680}">
 		<property name="assetPath">
-			<value>united/sfx/warning.wav</value>
+			<value>united/sfx/warning.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>11.0249996</value>

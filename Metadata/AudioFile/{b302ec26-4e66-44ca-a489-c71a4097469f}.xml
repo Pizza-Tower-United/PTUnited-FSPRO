@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b302ec26-4e66-44ca-a489-c71a4097469f}">
 		<property name="assetPath">
-			<value>united/sfx/Chat_display_text.wav</value>
+			<value>united/sfx/Chat_display_text.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

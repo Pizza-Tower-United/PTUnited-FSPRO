@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e8b92820-060c-427b-a25b-afcc64a0b441}">
 		<property name="assetPath">
-			<value>united/sfx/bonoise/sfx_supertauntBN.wav</value>
+			<value>united/sfx/bonoise/sfx_supertauntBN.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
