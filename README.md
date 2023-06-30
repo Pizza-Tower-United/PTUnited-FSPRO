@@ -3,10 +3,6 @@ Based of [Ralty's Pizza Tower FMOD Studio Project Recreation](https://github.com
 
 [![PT FSPRO Repository Image](.github/readme/banner-fspro.png)](https://github.com/Raltyro/Pizza-Tower-fspro-Recreation)
 
-## Import PT Assets
-Into the Assets folder,
-Can be downloaded here: https://mega.nz/file/gQwDULaJ#rdS4_qkBaTA7i9y87lAO4z3ZJBi0MvlG5jz5-sf_o4M
-
 To start with this, read the wiki here!  
 https://github.com/Raltyro/PT-FSPRO-Recreation/wiki
 
