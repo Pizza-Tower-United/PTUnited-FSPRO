@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{dff91b75-16fd-41c8-80eb-e6190ecc99ad}">
 		<property name="assetPath">
-			<value>united/sfx/bonoise/sfx_doorcloseBN.wav</value>
+			<value>united/sfx/bonoise/sfx_doorcloseBN.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

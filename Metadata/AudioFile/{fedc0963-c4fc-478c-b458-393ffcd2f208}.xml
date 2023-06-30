@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{fedc0963-c4fc-478c-b458-393ffcd2f208}">
 		<property name="assetPath">
-			<value>united/sfx/snipershot.wav</value>
+			<value>united/sfx/snipershot.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>22.0499992</value>
