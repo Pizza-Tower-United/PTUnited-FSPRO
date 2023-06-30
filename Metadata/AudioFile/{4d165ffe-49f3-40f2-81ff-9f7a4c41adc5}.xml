@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{4d165ffe-49f3-40f2-81ff-9f7a4c41adc5}">
 		<property name="assetPath">
-			<value>united/sfx/sfx_parry.ogg</value>
+			<value>united/sfx/unsugarcoat-parry.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
