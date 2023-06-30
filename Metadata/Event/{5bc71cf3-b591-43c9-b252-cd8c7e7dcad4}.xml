@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{5bc71cf3-b591-43c9-b252-cd8c7e7dcad4}">
 		<property name="name">
-			<value>sugarrushPZ-old</value>
+			<value>sugarrushPZ</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -35,6 +35,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{f38636ab-9eb8-4ff3-bb60-f4a493600a04}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{f8a437c7-4560-46a0-b2fe-dc51d9e39dfd}</destination>
 		</relationship>
 		<relationship name="defaultEvent">
 			<destination>{4cf5ef02-b6cf-4329-8725-8ee5710d6c36}</destination>
@@ -212,7 +215,7 @@
 			<value>142.97731074893693</value>
 		</property>
 		<property name="volume">
-			<value>-2</value>
+			<value>-2.5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{5dd394ba-9122-449f-a03b-fc40906cd45d}</destination>

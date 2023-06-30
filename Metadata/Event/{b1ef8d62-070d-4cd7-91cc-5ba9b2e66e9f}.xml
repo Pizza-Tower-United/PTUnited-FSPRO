@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{b1ef8d62-070d-4cd7-91cc-5ba9b2e66e9f}">
 		<property name="name">
-			<value>sugarrushPZ</value>
+			<value>sugarrushPZ-new</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -35,9 +35,6 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{4b4953bb-2652-421d-a3e1-0e169fc9a525}</destination>
-		</relationship>
-		<relationship name="banks">
-			<destination>{f8a437c7-4560-46a0-b2fe-dc51d9e39dfd}</destination>
 		</relationship>
 		<relationship name="defaultEvent">
 			<destination>{4cf5ef02-b6cf-4329-8725-8ee5710d6c36}</destination>
