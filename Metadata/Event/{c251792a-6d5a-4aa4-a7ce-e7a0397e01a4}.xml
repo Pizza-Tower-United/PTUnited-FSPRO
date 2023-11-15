@@ -5,7 +5,7 @@
 			<value>funiculifunicula</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{99db0958-7f7b-4dae-abce-f2c504fd1c2f}</destination>
@@ -91,7 +91,7 @@
 	</object>
 	<object class="MultiSound" id="{2da50dbd-2466-4dc6-b34a-7aa9e4a3628f}">
 		<relationship name="sounds">
-			<destination>{0baab477-d06f-4037-b170-d1f756aaa940}</destination>
+			<destination>{e6f8c3a0-6296-48ee-87e0-1ce7e692376b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{c15a2421-cdbd-46e4-8487-0fc442c5dd0b}">
@@ -106,7 +106,10 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{91113d43-7abc-4ecc-91c1-0a8646ca3206}" />
-	<object class="SingleSound" id="{0baab477-d06f-4037-b170-d1f756aaa940}">
+	<object class="SingleSound" id="{e6f8c3a0-6296-48ee-87e0-1ce7e692376b}">
+		<property name="volume">
+			<value>3</value>
+		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
